@@ -1,6 +1,6 @@
 # react-native-redux-tech-stack
 
-An introductory exercise into Redux to handle state-management in React-Native, as part of "The Complete React Native and Redux Course" by Stephen Grider (link below).
+An introductory exercise into Redux to handle state-management in React-Native, as part of "The Complete React Native and Redux Course" by Stephen Grider (link below). Allows users to click tabs and see a description of various tech stacks.
 
 ## Usage
 1. npm install
